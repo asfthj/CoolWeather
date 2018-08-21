@@ -8,7 +8,7 @@ public class County extends DataSupport {
     private String weatherId;
     private int cityId;
 
-    public void getId(){
+    public int getId(){
         return id;
     }
 
